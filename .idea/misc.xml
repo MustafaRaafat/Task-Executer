@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/mustafa/TaskExecuter/taskexecuter/app/src/main/res/drawable/rectangle.xml" value="0.1595" />
+        <entry key="..\:/mustafa/TaskExecuter/taskexecuter/app/src/main/res/layout/activity_main.xml" value="0.12364130434782608" />
+        <entry key="..\:/mustafa/TaskExecuter/taskexecuter/app/src/main/res/layout/task_item.xml" value="0.17074275362318841" />
         <entry key="..\:/mustafa/test/TaskExecuter/taskexecuter/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
